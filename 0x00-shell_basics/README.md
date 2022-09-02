@@ -1,3 +1,2 @@
-#!/bin/bash 
-another readme file in the shell basics
-
+#!/bin/bash
+my second non-empty readme
