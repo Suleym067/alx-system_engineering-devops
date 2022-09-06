@@ -1,0 +1,1 @@
+writing scripts on Shell, I/O Redirection
