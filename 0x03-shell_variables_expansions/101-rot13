@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -lne "printif $.%2 == 1"
+tr 'A-Ma-mN-Zn-z' 'N-Zn-zA-Ma-m'
